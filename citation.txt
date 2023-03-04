@@ -1,7 +1,8 @@
-@inproceedings{10.5555/3172077.3172386,
-author = {Zhou, Zhi-Hua and Feng, Ji},
-title = {Deep Forest: Towards an Alternative to Deep Neural Networks},
-year = {2017},
-publisher = {AAAI Press},
-booktitle = {Proceedings of the 26th International Joint Conference on Artificial Intelligence},
-pages = {3553¨C3559}}
+@inproceedings{REPO-283,
+    author = "Zhou, Zhi-Hua and Feng, Ji",
+    booktitle = "Proceedings of the 26th International Joint Conference on Artificial Intelligence",
+    pages = "3553¨C3559",
+    publisher = "AAAI Press",
+    title = "{Deep Forest: Towards an Alternative to Deep Neural Networks}",
+    year = "2017"
+}
